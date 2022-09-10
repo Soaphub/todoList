@@ -69,7 +69,7 @@ I was able to:
 
 ## Author
 
-- Website - Ambadi M P (https://floating-tundra-83202.herokuapp.com/)
+- Website - [Ambadi](https://floating-tundra-83202.herokuapp.com/)
 
 ## Acknowledgments
 
